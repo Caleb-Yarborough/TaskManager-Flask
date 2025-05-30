@@ -1,8 +1,8 @@
-# 🗂️ Task Manager – Flask Web App
+# Task Manager – Flask Web App
 
 A lightweight, full-stack to-do list application built with Python and Flask. This app allows users to manage their tasks by creating, updating, and deleting them, with a clean and minimal interface.
 
-## 🚀 Features
+## Features
 
 - Add new tasks with a description
 - View all tasks ordered by creation time
@@ -11,7 +11,7 @@ A lightweight, full-stack to-do list application built with Python and Flask. Th
 - Persistent data storage with SQLite
 - Built using Flask’s templating system (Jinja2)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python 3**
 - **Flask**
