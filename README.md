@@ -19,10 +19,5 @@ A lightweight, full-stack to-do list application built with Python and Flask. Th
 - **SQLAlchemy**
 - **HTML/CSS**
 
-## 📸 Screenshots
-
-*(Add screenshots here if desired: `/static/` folder can hold your images)*
-
-## 📁 Project Structure
 
 
